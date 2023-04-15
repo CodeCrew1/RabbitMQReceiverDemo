@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcBATK8qAtuzxsfXXIin5kpXwWT88BcF954wwQ2HvAIQM+6fF/S642IpI52cKNlMXAbR7FcBs3uSGzM3mbfVIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOM\\source\\repos\\RMQReceiver\\receiver3\\receiver3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOM\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\TOM\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\TOM\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

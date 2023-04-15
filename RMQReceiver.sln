@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMqReceiver1", "RMqReceiver1\RMqReceiver1.csproj", "{95C687B9-A071-4B15-B6A0-A6EAB5982BC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "receiver3", "receiver3\receiver3.csproj", "{BC2E6356-8F2A-407F-9D1A-06002F3BFBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C687B9-A071-4B15-B6A0-A6EAB5982BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C687B9-A071-4B15-B6A0-A6EAB5982BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C687B9-A071-4B15-B6A0-A6EAB5982BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C687B9-A071-4B15-B6A0-A6EAB5982BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2E6356-8F2A-407F-9D1A-06002F3BFBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2E6356-8F2A-407F-9D1A-06002F3BFBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2E6356-8F2A-407F-9D1A-06002F3BFBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2E6356-8F2A-407F-9D1A-06002F3BFBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AAF8F13-104D-45CD-9EF1-09E867D51669}
+	EndGlobalSection
+EndGlobal
